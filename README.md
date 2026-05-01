@@ -1,4 +1,4 @@
-# 🐀 RAT CYBERWARE BASIC  [use on the same network]
+# 🐀 RAT CYBER  [use on the same network]
 
 ## Developed by: [(CYBER)]
 
