@@ -1,6 +1,10 @@
 # 🐀 RAT CYBER
 
+<BR>
+
 ## 🚫 DO NOT INSTALL THE EXECUTABLE FILE FROM THIS REPOSITORY!
+
+<BR>
 
 ## 📌 Legal Notice
 This project is **for educational and ethical purposes only**.  
